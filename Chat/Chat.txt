@@ -1,0 +1,502 @@
+3/11/23 16:10 - Los mensajes enviados a este mismo número están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos. Toca para obtener más información.
+3/11/23 16:09 - Luciano Pereyra: generador de encuentas para instagram,wsp,twitter y facebook
+3/11/23 16:43 - Luciano Pereyra: clon de twon(serruda) para instagram
+3/11/23 16:45 - Luciano Pereyra: analiticas de linkdin
+3/11/23 17:03 - Luciano Pereyra: tweet ai para face twitter y youtube
+3/11/23 17:04 - Luciano Pereyra: herramientas de este estilo pueden servirles a los comercienates para publicar productos en redes
+3/11/23 17:04 - Luciano Pereyra: una herramienta para publicar productos en redes automatizada y con contenido gnerado con chatgrp
+3/11/23 17:05 - Luciano Pereyra: generar campañas de ventas/marketing para publicar en insta twiter face etc los articulos
+3/11/23 17:44 - Luciano Pereyra: Eliminaste este mensaje.
+24/11/23 13:25 - Luciano Pereyra: entrenador de idiomas basado en chatgtp donde se puede el usuario se subscribe a la pagian y mediante un servicio web programamos segun la dificultad, charlas entre el bot y la persona. Estaria disponibles en todos los idiomas
+24/11/23 13:27 - Luciano Pereyra: el pago tambien se podria hacer ingresando mediante un enlace seguro  cada 24 hs desde el inicio de la actividad primera del usuario, donde te llevaria a ver una publicidad
+4/12/23 17:21 - Luciano Pereyra: Heramienta para hacer publicidad masiva por correo de publicaciones existentes en twiter, facebook,instagram,youtube y crear un dashboard para tener un registro de las publicidades creadas con analiticas.
+4/12/23 17:21 - Luciano Pereyra: y whatsapp
+4/12/23 23:34 - Luciano Pereyra: ‎IMG-20231204-WA0022.jpg (archivo adjunto)
+4/12/23 23:35 - Luciano Pereyra: ‎IMG-20231204-WA0023.jpg (archivo adjunto)
+4/12/23 23:35 - Luciano Pereyra: ‎IMG-20231204-WA0024.jpg (archivo adjunto)
+4/12/23 23:35 - Luciano Pereyra: ‎IMG-20231204-WA0025.jpg (archivo adjunto)
+4/12/23 23:36 - Luciano Pereyra: ‎IMG-20231204-WA0026.jpg (archivo adjunto)
+4/12/23 23:44 - Luciano Pereyra: En el contexto de una tienda, puedo hacer webscrapping para mediante promps entrenar al bot IA
+10/12/23 04:48 - Luciano Pereyra: FACTURARRR
+10/12/23 15:45 - Luciano Pereyra: <Multimedia omitido>
+12/12/23 00:07 - Luciano Pereyra: crear una extension que le tu linkedin y cree cv con diseños hechos con tailwindcss
+12/12/23 00:08 - Luciano Pereyra: generar cv a partir de github con links a los proyectos
+12/12/23 00:53 - Luciano Pereyra: Para el sistema de gestion de ventas, generar chat automatico con la funcionalidad de actualizarse automáticamente a partir de modificaciobes en el inventario
+14/12/23 12:41 - Luciano Pereyra: <Multimedia omitido>
+dani.txt
+4/1/24 15:27 - Luciano Pereyra: ‎IMG-20240104-WA0011.jpg (archivo adjunto)
+4/1/24 15:35 - Luciano Pereyra: <Multimedia omitido>
+factura_merged.pdf
+4/1/24 15:49 - Luciano Pereyra: <Multimedia omitido>
+factura_merged.pdf
+2/2/24 14:10 - Luciano Pereyra: <Multimedia omitido>
+5/2/24 14:21 - Luciano Pereyra: <Multimedia omitido>
+6/2/24 19:36 - Luciano Pereyra: https://www.linkedin.com/posts/de-codigo-somos_junior-entrylevel-reciengraduado-activity-7160758812528762881-wa0D?utm_source=share&utm_medium=member_android
+8/2/24 10:52 - Luciano Pereyra: ‎IMG-20240208-WA0003.jpg (archivo adjunto)
+10/2/24 21:29 - Luciano Pereyra: https://www.linkedin.com/posts/soyfedev_sql-fullstack-empleoit-activity-7162116008382455808-VehQ?utm_source=share&utm_medium=member_android
+15/2/24 16:16 - Luciano Pereyra: https://app.cocos.capital/
+15/2/24 16:16 - Luciano Pereyra: https://www.invertironline.com/productos/cedears?utm_source=SEM&utm_medium=Google_SC&utm_campaign=IOL_SEM_Google_SC_AR_CEDEARs_&utm_content=Origen14&gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJFQqfJ0AcM0ITCJs1wfDJvwANbiMkIp1ptEXfkmJf6YSBqSWzrJFAxoC0-YQAvD_BwE
+23/2/24 14:05 - Luciano Pereyra: ‎Cv - English.pdf (archivo adjunto)
+Cv - English.pdf
+26/2/24 12:55 - Luciano Pereyra: ‎Cv - Español-1.pdf (archivo adjunto)
+Cv - Español.pdf
+28/2/24 02:12 - Luciano Pereyra: ‎LPereyraParClaves.ppk (archivo adjunto)
+LPereyraParClaves.ppk
+28/2/24 02:13 - Luciano Pereyra: Para las instancias de Windows, utilice un par de claves para descifrar la contraseña del administrador y, a continuación, utilice la contraseña descifrada para conectarse a la instancia.
+28/2/24 17:32 - Luciano Pereyra: contratos.aspx
+28/2/24 17:32 - Luciano Pereyra: ‎IMG-20240228-WA0023.jpg (archivo adjunto)
+28/2/24 17:52 - Luciano Pereyra: ‎IMG-20240228-WA0026.jpg (archivo adjunto)
+29/2/24 01:20 - Luciano Pereyra: rdp par aconectarse a instancia aws
+29/2/24 01:34 - Luciano Pereyra: ‎ec2-54-161-70-131.compute-1.amazonaws.com.rdp (archivo adjunto)
+ec2-54-161-70-131.compute-1.amazonaws.com.rdp
+29/2/24 01:34 - Luciano Pereyra: ‎Lpereyra-proyectos.pem (archivo adjunto)
+Lpereyra-proyectos.pem
+1/3/24 18:51 - Luciano Pereyra: ‎IMG-20240301-WA0015.jpg (archivo adjunto)
+2/3/24 19:24 - Luciano Pereyra: https://www.linkedin.com/feed/update/urn:li:activity:7169783526144344064?utm_source=share&utm_medium=member_android
+5/3/24 00:56 - Luciano Pereyra: 172.26.176.1
+5/3/24 00:59 - Luciano Pereyra: DESKTOP-JA29JCT
+5/3/24 08:35 - Luciano Pereyra: Utiliza las credenciales que verás a continuación para iniciar una sesión. ID de TeamViewer: 1 368 358 957 Contraseña: qrdpy9a7
+5/3/24 19:06 - Luciano Pereyra: 0146581
+5/3/24 19:16 - Luciano Pereyra: Legajo up
+6/3/24 15:48 - Luciano Pereyra: errores que aparecen al iniciar solucion en orden:
+6/3/24 15:48 - Luciano Pereyra: ‎IMG-20240306-WA0002.jpg (archivo adjunto)
+6/3/24 15:48 - Luciano Pereyra: ‎IMG-20240306-WA0003.jpg (archivo adjunto)
+6/3/24 15:51 - Luciano Pereyra: Que hice para armar el git.
+6/3/24 15:51 - Luciano Pereyra: 1: cree el repo en github privado
+6/3/24 15:52 - Luciano Pereyra: 2: ejecute el  siguiente comando: echo "# SimpleTrust" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/luciano771/SimpleTrust.git
+git push -u origin main
+6/3/24 15:52 - Luciano Pereyra: ‎IMG-20240306-WA0005.jpg (archivo adjunto)
+el resultado de 2:
+6/3/24 15:52 - Luciano Pereyra: 3:
+6/3/24 15:53 - Luciano Pereyra: git add . , git commit -m "first commit", git push
+7/3/24 08:19 - Luciano Pereyra: Utiliza las credenciales que verás a continuación para iniciar una sesión. ID de TeamViewer: 1 368 358 957 Contraseña: b35cpux2
+8/3/24 17:59 - Luciano Pereyra: <Multimedia omitido>
+11/3/24 21:10 - Luciano Pereyra: petter dracker 
+las eras
+
+pregunta de parcial  y final. ad2
+12/3/24 08:36 - Luciano Pereyra: ‎IMG-20240312-WA0002.jpg (archivo adjunto)
+14/3/24 08:29 - Luciano Pereyra: ‎IMG-20240314-WA0001.jpg (archivo adjunto)
+15/3/24 00:13 - Luciano Pereyra: .NET developer with experience in administration, HHRR and logistical systems. +2years experience. 4 Semesters to have my information technology degree. i possess an associate degree in system analyst.
+15/3/24 14:55 - Luciano Pereyra: Obtener el archivo .exe o .dll principal del proyecto en .NET Framework
+Para obtener el archivo .exe o .dll principal de un proyecto .NET Framework, existen dos métodos principales:
+
+1. Usando Visual Studio:
+
+Compilación: Abra el proyecto en Visual Studio y compile la solución.
+Ubicación: El archivo .exe o .dll principal se genera en la carpeta de salida especificada en las propiedades del proyecto. La ruta predeterminada es bin\Debug o bin\Release, dependiendo de la configuración de compilación.
+2. Usando la línea de comandos:
+
+Compilación: Compile el proyecto usando el comando csc.exe o vbc.exe con la opción -target:exe o -target:library.
+Ubicación: El archivo .exe o .dll principal se genera en la carpeta actual o en la carpeta especificada por la opción -out.
+Opciones adicionales:
+
+Especificar la configuración de compilación: Use la opción -configuration para elegir entre Debug o Release.
+Especificar la plataforma de destino: Use la opción -platform para elegir entre x86, x64, o AnyCPU.
+Ver información de compilación: Use la opción -help para obtener una lista completa de opciones disponibles.
+Ejemplos:
+
+Compilar y obtener el archivo .exe principal usando Visual Studio:
+
+Abra el proyecto en Visual Studio.
+Seleccione Compilar en el menú Compilar.
+El archivo .exe se genera en la carpeta bin\Debug o bin\Release.
+Compilar y obtener el archivo .dll principal usando la línea de comandos:
+
+Abra una ventana de símbolo del sistema.
+Navegue a la carpeta que contiene el archivo de código fuente (.cs o .vb).
+Ejecute el siguiente comando:
+csc.exe /target:library /out:MiLibreria.dll MiLibreria.cs
+El archivo MiLibreria.dll se genera en la carpeta actual.
+Consejos:
+
+Asegúrese de que la ruta de acceso al compilador (.exe) esté configurada correctamente en su sistema.
+Verifique la configuración de compilación y la plataforma de destino antes de ejecutar el comando.
+Utilice las opciones adicionales para personalizar el proceso de compilación según sus necesidades.
+Conclusión:
+
+Con estos métodos, puede obtener fácilmente el archivo .exe o .dll principal de un proyecto .NET Framework. Elija el método que mejor se adapte a su flujo de trabajo y necesidades.
+16/3/24 01:25 - Luciano Pereyra: Fullstack .NET developer with experience in administration, HR, and logistical systems. Skilled in development, maintenance, and process optimization.  Also have experience in other languages (e.g., PHP, Javascript).
+16/3/24 16:45 - Luciano Pereyra: CARTA DE PRESENTACION PARA PROPUESTAS LABORALES: Dear Erick,
+
+I am writing to express my interest in the Junior .NET Developer position.
+
+I have experience as a .NET Analyst Programmer, working with both front-end and back-end development using .NET C#. In my current role at CONEAU, I responsible to maintaining and developing functionalities for their HR and administration system, including working with client requirements. Additionally, I have experience developing functionalities for various systems through freelance work.
+
+I am currently looking for opportunities to further develop my skills in a professional .NET development environment. I believe my experience aligns with the requirements of this position.
+
+I have attached my CV and portfolio for your review. I am happy to answer any questions you may have about my qualifications.
+
+Website: https://merakicodelabs.com/Portfolio
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Luciano Pereyra
+19/3/24 02:23 - Luciano Pereyra: Idea nombre para mi emprendimiento - SelectFrom*You SFY
+19/3/24 02:47 - Luciano Pereyra: ‎pulpoIcono.jpg (archivo adjunto)
+pulpoIcono.jpg
+19/3/24 02:47 - Luciano Pereyra: ‎IMG-20240319-WA0000.jpg (archivo adjunto)
+Navegando en un mundo digital
+19/3/24 02:48 - Luciano Pereyra: te ayudamos a navegar en el mundo digital, brindando soluciones
+19/3/24 02:49 - Luciano Pereyra: ‎IMG-20240319-WA0001.jpg (archivo adjunto)
+19/3/24 02:49 - Luciano Pereyra: tambien simboliza la cantidad de brazos a las herramientas que brindamos como empresa
+19/3/24 02:49 - Luciano Pereyra: multiples soluciones
+19/3/24 02:53 - Luciano Pereyra: pulpo de azul, la empresa puede llamarse "blu"
+19/3/24 02:54 - Luciano Pereyra: ‎IMG-20240319-WA0002.jpg (archivo adjunto)
+blu
+19/3/24 02:55 - Luciano Pereyra: con una antenita y con la mimica de que va navegando hacia la derecha o buzeando
+19/3/24 02:55 - Luciano Pereyra: un pulpo violeta!
+19/3/24 13:20 - Luciano Pereyra: CARTA PRESENTACION ESPAÑOL:
+19/3/24 13:21 - Luciano Pereyra: Hola Ana como estas?
+
+
+
+
+
+Te escribo para aplicar a la posición Programador .NET Jr / Remoto.
+
+
+
+Tengo experiencia como Programador Analista .NET, trabajando tanto en el desarrollo front-end como en el back-end utilizando .NET C#. En mi rol actual en CONEAU, soy responsable de mantener y desarrollar funcionalidades para su sistema de recursos humanos y administración, incluyendo la toma de requerimientos. Ademas tengo experiencia desarrollando funcionalidades para varios sistemas a través de trabajos freelance en .NET C#:
+
+
+
+también tengo experiencias en bases de datos como ORACLE, SQLSERVER,MYSQL Y POSTGRESSS.
+
+
+
+Además poseo conocimientos en Docker y git.
+
+
+
+Actualmente estoy buscando oportunidades para seguir desarrollando mis habilidades en un entorno profesional de desarrollo .NET. Creo que mi experiencia se alinea con los requisitos de esta posición.
+
+
+
+Adjunto mi CV y portafolio para tu revisión.  
+
+
+
+Sitio web: https://merakicodelabs.com/Portfolio
+
+
+
+Gracias por tu tiempo y consideración.
+
+
+
+
+
+Luciano Pereyra
+20/3/24 15:54 - Luciano Pereyra: Idea: Crear gran bases de datos con correo de recruiters o directamente de la empresa de HHRR. Crear una funcionalidad que me permita mandar mails masivamentes a estas empresas para postular.
+20/3/24 15:57 - Luciano Pereyra: Servicios extras que puedo brindar: Creación de CV con IA, los usuarios pueden agregar nuevos mails  de empresas o mails de reclutadores y pueden desbloquear cierta cantidad de mensajes.
+20/3/24 15:58 - Luciano Pereyra: Puedo hacer publicidad de perfiles que tengan como skils el armado de linkedin, cv y demas mediante esta pagina.
+20/3/24 15:58 - Luciano Pereyra: Creo que si mantengo el proyecto gratuito puedo retroalimentar la base de datos  y  con el tiempo hacer una modalidad freemium
+20/3/24 16:00 - Luciano Pereyra: la modalidad freemium seria comprar cierta cantidad de creditos para enviar correos 1 correo - 1 credito, y 1 mail que no tenga en la base - 100 correos. 100 creditos - 5 dolares
+20/3/24 16:00 - Luciano Pereyra: estari ausando la misma modalidad que usa scribs para descargar documentos !!!
+20/3/24 16:25 - Luciano Pereyra: o recruiter que quieran sumarse voluntariamente a la base de datos !!!!!!
+20/3/24 16:34 - Luciano Pereyra: Si repsonden la empresa meidante el correo blu@gmai.com poenele, se le notifica al usuario de que la empresa vio su perfil. (puedo usar ia para veriicar si estan inteesados  o no), y hacer un trakeo completo con blu. En el caso de ser contratado retrubuye con una paga mas o algo ais
+21/3/24 08:24 - Luciano Pereyra: ‎IMG-20240321-WA0005.jpg (archivo adjunto)
+24/3/24 23:07 - Luciano Pereyra: ‎IMG-20240325-WA0000.jpg (archivo adjunto)
+24/3/24 23:07 - Luciano Pereyra: ‎IMG-20240325-WA0003.jpg (archivo adjunto)
+24/3/24 23:07 - Luciano Pereyra: ‎IMG-20240325-WA0001.jpg (archivo adjunto)
+24/3/24 23:07 - Luciano Pereyra: ‎IMG-20240325-WA0002.jpg (archivo adjunto)
+25/3/24 21:53 - Luciano Pereyra: preguntas de la entrrevista de hoy: patrones de diseño, iis,asp net core (generics), interfaces, orientado a objetos en general, sql, sql mannagement
+26/3/24 02:14 - Luciano Pereyra: ‎IMG-20240326-WA0001.jpg (archivo adjunto)
+26/3/24 02:14 - Luciano Pereyra: ‎IMG-20240326-WA0003.jpg (archivo adjunto)
+26/3/24 02:14 - Luciano Pereyra: ‎IMG-20240326-WA0002.jpg (archivo adjunto)
+26/3/24 08:26 - Luciano Pereyra: ‎IMG-20240326-WA0005.jpg (archivo adjunto)
+26/3/24 17:21 - Luciano Pereyra: SELECT GU.grupo, 
+       LISTAGG(u.ID_USUARIOS || ', ' || u.apellido || ', ' || u.primer_nombre || ', ' || u.segundo_nombre, '; ') 
+           WITHIN GROUP (ORDER BY u.ID_USUARIOS) as nombres_concatenados
+FROM SIS_MAINFRAME.Q_GRUPOS_USUARIOS GU
+JOIN SIS_MAINFRAME.USUARIOS U ON GU.ID_USUARIOS = U.ID_USUARIOS
+WHERE gu.id_sistemas = 11
+GROUP BY GU.grupo
+ORDER BY GU.grupo;
+29/3/24 17:36 - Luciano Pereyra: https://www.linkedin.com/feed/update/urn:li:activity:7179565911018749952/
+29/3/24 17:38 - Luciano Pereyra: ‎IMG-20240329-WA0015.jpg (archivo adjunto)
+3/4/24 02:18 - Luciano Pereyra: Hola gente, como estan ? me ayudarian un monton  compartiendo !!! https://www.linkedin.com/feed/update/urn:li:share:7181155992930258944/
+3/4/24 02:19 - Luciano Pereyra: ‎IMG-20240403-WA0000.jpg (archivo adjunto)
+3/4/24 19:11 - Luciano Pereyra: https://www.linkedin.com/in/lucianopereyra/
+6/4/24 01:31 - Luciano Pereyra: Para crear una DLL (Dynamic Link Library) a partir de un proyecto en .NET Framework, puedes seguir estos pasos:
+
+Abre tu proyecto en Visual Studio.
+
+Asegúrate de que el proyecto esté configurado para compilar como una biblioteca de clases (Class Library). Puedes verificar esto haciendo clic derecho en el proyecto en el Explorador de soluciones, seleccionando Propiedades y asegurándote de que la opción de salida esté configurada como "Biblioteca de clases".
+
+Compila el proyecto. Puedes hacer esto seleccionando Build > Build Solution en el menú de Visual Studio o presionando Ctrl + Shift + B.
+
+Una vez que la compilación se haya completado sin errores, encontrarás la DLL resultante en la carpeta de salida de tu proyecto. Por lo general, esta carpeta es bin\Debug o bin\Release, dependiendo de si compilaste en modo de depuración (Debug) o de lanzamiento (Release).
+
+¡Y eso es todo! Ahora tienes una DLL compilada de tu proyecto en .NET Framework que puedes utilizar en otros proyectos o distribuir según sea necesario.
+6/4/24 18:26 - Luciano Pereyra: ‎IMG-20240406-WA0007.jpg (archivo adjunto)
+6/4/24 18:26 - Luciano Pereyra: ‎IMG-20240406-WA0009.jpg (archivo adjunto)
+6/4/24 18:27 - Luciano Pereyra: ‎IMG-20240406-WA0008.jpg (archivo adjunto)
+8/4/24 10:19 - Luciano Pereyra: ‎Formulario de Impresión de Constancia de Monotributo.pdf (archivo adjunto)
+Formulario de Impresión de Constancia de Monotributo.pdf
+8/4/24 10:19 - Luciano Pereyra: ‎Credencial_27328830863 (202405).pdf (archivo adjunto)
+Credencial_27328830863 (202405).pdf
+8/4/24 10:19 - Luciano Pereyra: ‎AFIP _ Formulario 184.pdf (archivo adjunto)
+AFIP _ Formulario 184.pdf
+8/4/24 10:19 - Luciano Pereyra: ‎CV JAE L SISTEMAS 04-2023.pdf (archivo adjunto)
+CV JAE L SISTEMAS 04-2023.pdf
+8/4/24 13:00 - Luciano Pereyra: ‎IMG-20240408-WA0012.jpg (archivo adjunto)
+8/4/24 13:00 - Luciano Pereyra: <Multimedia omitido>
+8/4/24 13:06 - Luciano Pereyra: ‎CamScanner 20-03-2024 11.14.pdf (archivo adjunto)
+CamScanner 20-03-2024 11.14.pdf
+8/4/24 13:10 - Luciano Pereyra: ‎WhatsApp Image 2024-04-08 at 13.00.46.pdf (archivo adjunto)
+WhatsApp Image 2024-04-08 at 13.00.46.pdf
+8/4/24 18:11 - Luciano Pereyra: 08002226672
+9/4/24 11:14 - Luciano Pereyra: ‎Nisbett-et-al.-2012-Inteligencia.-Nuevos-hallazgos-y-desarrollos-teóricos-Intelligence.-New-findings-and-theoretical-developm.url (archivo adjunto)
+Nisbett-et-al.-2012-Inteligencia.-Nuevos-hallazgos-y-desarrollos-teóricos-Intelligence.-New-findings-and-theoretical-developm.url
+11/4/24 01:19 - Luciano Pereyra: Tenemos que desarrollar la app (Desktop o web) para enviar correos a los recruiters. Por un lado solucionar la velocidad de carga en la base de  datos (Puede ser con una extension de chrome), otra de tener una carta de presentacion sea: Backend, frotnend, fullstack, analista funcional, idioma, etc.. para editar esa carta de presentacion antes de enviar a los correos seleccionados el mail para postular
+18/4/24 12:14 - Luciano Pereyra: ‎IMG-20240418-WA0010.jpg (archivo adjunto)
+18/4/24 18:03 - Luciano Pereyra: <Multimedia omitido>
+19/4/24 19:28 - Luciano Pereyra: <Multimedia omitido>
+19/4/24 19:31 - Luciano Pereyra: <Multimedia omitido>
+24/4/24 00:48 - Luciano Pereyra: ‎IMG-20240424-WA0000.jpg (archivo adjunto)
+24/4/24 00:48 - Luciano Pereyra: ‎IMG-20240424-WA0001.jpg (archivo adjunto)
+24/4/24 00:48 - Luciano Pereyra: ‎IMG-20240424-WA0002.jpg (archivo adjunto)
+24/4/24 01:09 - Luciano Pereyra: ‎IMG-20240424-WA0003.jpg (archivo adjunto)
+24/4/24 01:09 - Luciano Pereyra: ‎IMG-20240424-WA0004.jpg (archivo adjunto)
+24/4/24 01:10 - Luciano Pereyra: ‎IMG-20240424-WA0005.jpg (archivo adjunto)
+24/4/24 13:21 - Luciano Pereyra: ‎IMG-20240424-WA0014.jpg (archivo adjunto)
+25/4/24 15:31 - Luciano Pereyra: https://meet.google.com/rth-eaab-yet
+25/4/24 16:27 - Luciano Pereyra: Tú
+15:43
+Solicitud original (vinculada) queda en estado solicitado (salvo una baja) y la solicitud de cambio (la nueva) quedaria en estado finalizada.
+Tú
+15:57
+Para loys al reservar la solicitud deberia pasar a finalizada
+Tú
+15:58
+loys no deberia mostarse en contratos - contratos
+Tú
+16:05
+aveses los contratos son generados y la solicitud no pasa a finalizada
+Tú
+16:06
+en personal al cargar la informaicon de finalizacion de contratacion aparece un error de tipo de datos que se soluciona al volver a coneau nicio
+Tú
+16:11
+para administradores de silec se deben ver todos los pagos pendientes de todas las aresas
+26/4/24 14:47 - Luciano Pereyra: aliciac TESTadmin4142
+26/4/24 15:05 - Luciano Pereyra: . Cuando en un EE hay varios contratos, y se cancela alguno, al ir a firmar, sigue apareciendo. Obvio, no es urgente, pero me parece que no debería aparecer, porque si se canceló, no se va a firmar.
+Que tengas un lindo día
+26/4/24 17:46 - Luciano Pereyra: ‎Contrato de Servicios Profesionales Luciano.docx REV SS 25042024 REVMOG.docx (archivo adjunto)
+Contrato de Servicios Profesionales Luciano.docx REV SS 25042024 REVMOG.docx
+26/4/24 17:46 - Luciano Pereyra: ‎Confidencialidad Luciano.docx (archivo adjunto)
+Confidencialidad Luciano.docx
+26/4/24 20:36 - Luciano Pereyra: ‎contratos.pdf (archivo adjunto)
+contratos.pdf
+29/4/24 16:30 - Luciano Pereyra: ‎Confidencialidad Luciano-1.docx (archivo adjunto)
+Confidencialidad Luciano.docx
+29/4/24 16:30 - Luciano Pereyra: ‎Contrato de Servicios Profesionales Luciano.docx REV SS 25042024 REVMOG (1).docx (archivo adjunto)
+Contrato de Servicios Profesionales Luciano.docx REV SS 25042024 REVMOG (1).docx
+29/4/24 21:04 - Luciano Pereyra: :KBPx8rapp-cRXa grabrfi
+2/5/24 00:25 - Luciano Pereyra: ‎Esquema%20de%20las%205%20fuerzas%20de%20Porter%20vs.%20modelos.pdf (archivo adjunto)
+Esquema%20de%20las%205%20fuerzas%20de%20Porter%20vs.%20modelos.pdf
+2/5/24 00:35 - Luciano Pereyra: ‎ESTRATEGIAS FA FO DA DO.pdf (archivo adjunto)
+ESTRATEGIAS FA FO DA DO.pdf
+2/5/24 23:18 - Luciano Pereyra: Utiliza las credenciales que verás a continuación para iniciar una sesión. ID de TeamViewer: 1 368 358 957 Contraseña: artcqm2n
+3/5/24 01:41 - Luciano Pereyra: Te comparto los datos de mi cuenta de Takenos para transferencias bancarias:
+
+Datos del beneficiario:
+
+Nombre del titular: Luciano Luis Alberto Pereyra
+Número de la cuenta: 215895052134
+Número de ruta: 101019644
+Tipo de cuenta: Personal Checking
+
+Datos del banco:
+
+Nombre: Lead Bank
+Dirección: 1801 Main St., Kansas City, MO 64108
+4/5/24 16:50 - Luciano Pereyra: sp
+4/5/24 16:50 - Luciano Pereyra: tUY:7nQ:$kx0gV
+6/5/24 18:32 - Luciano Pereyra: ‎IMG-20240506-WA0074.jpg (archivo adjunto)
+6/5/24 18:52 - Luciano Pereyra: ‎Unidad2.drawio.pdf (archivo adjunto)
+Unidad2.drawio.pdf
+6/5/24 18:52 - Luciano Pereyra: ‎Unidad1.drawio.pdf (archivo adjunto)
+Unidad1.drawio.pdf
+6/5/24 18:52 - Luciano Pereyra: ‎Unidad5.drawio.pdf (archivo adjunto)
+Unidad5.drawio.pdf
+6/5/24 18:52 - Luciano Pereyra: ‎Unidad4.drawio.pdf (archivo adjunto)
+Unidad4.drawio.pdf
+6/5/24 18:52 - Luciano Pereyra: ‎Unidad3.drawio.pdf (archivo adjunto)
+Unidad3.drawio.pdf
+6/5/24 18:52 - Luciano Pereyra: Resolver el siguiente caso con la herramienta FODA. 
+
+
+Se hizo una investigación en centros infantiles en relación con la incorporación de nuevas tecnologías y sus consecuencias en la nueva implantación, promovida por el gobierno central.
+
+
+
+Se pudo detectar que:
+
+Las nuevas tecnologías promueven el desarrollo de los estudiantes (A01) sin embargo, se pierde más tiempo que antes (A02).
+
+Permite estar a la altura de las instituciones más modernas del mundo (A03). Dando un fácil acceso a la información. (A04)
+
+Alguna de las cuestiones que ser mencionadas son, falta de preparación de los profesores (A05), los directivos si bien están interesados en el cambio no demuestran apoyo (A06).
+
+Las nuevas tecnologías vienen dadas por el ministerio, los profesores no fueron consultados (A07), además de ello durante el horario escolar, los docentes están abocados a tareas educativas (A08), los profesores no ven una mejora sustancial y por ello demuestran poco compromiso (A09).
+
+A nivel diario el cambio puede generar un beneficio a la institución (A10). Hay posibilidades de que otros institutos muestren el apoyo al proyecto (A11). Tal vez se pueda hacer conexión entre instituciones educativas (A12). Es muy moderna y nueva la opción (A13).
+
+
+
+
+
+Colocar las letras/números en donde corresponda
+
+
+
+F =
+
+O =
+
+D =
+
+A =
+6/5/24 18:52 - Luciano Pereyra: F = A01 - A03 - A04 - A13
+
+O = A10 - A11 - A12
+
+D = A02 - A05 - A06 - A07 - A08 - A09
+
+A =
+11/5/24 19:29 - Luciano Pereyra: ‎IMG-20240511-WA0016.jpg (archivo adjunto)
+Durante todo el día sys mayor 160 y día mayor a 100 me medi 6 veses
+11/5/24 20:10 - Luciano Pereyra: ‎IMG-20240511-WA0017.jpg (archivo adjunto)
+11/5/24 23:08 - Luciano Pereyra: cuando me mido la presion aveses siento un latido fuerte y que mi muñeca late mas fuerte, en ese momento me da 20 digitos mas ambas
+16/5/24 15:19 - Luciano Pereyra: ‎IMG-20240516-WA0027.jpg (archivo adjunto)
+19/5/24 22:20 - Luciano Pereyra: ‎IMG-20240519-WA0067.jpg (archivo adjunto)
+License
+19/5/24 22:21 - Luciano Pereyra: ‎IMG-20240519-WA0069.jpg (archivo adjunto)
+License
+20/5/24 12:42 - Luciano Pereyra: ‎IMG-20240520-WA0014.jpg (archivo adjunto)
+20/5/24 16:22 - Luciano Pereyra: ‎IMG-20240520-WA0025.jpg (archivo adjunto)
+21/5/24 23:48 - Luciano Pereyra: ‎IMG-20240521-WA0051.jpg (archivo adjunto)
+alfinnnnnnnnnnnnnnnn
+22/5/24 14:42 - Luciano Pereyra: ‎IMG-20240522-WA0041.jpg (archivo adjunto)
+22/5/24 18:11 - Luciano Pereyra: tbl_type_proceeding asocio a invoisiable
+23/5/24 17:04 - Luciano Pereyra: ‎IMG-20240523-WA0072.jpg (archivo adjunto)
+23/5/24 17:05 - Luciano Pereyra: ‎IMG-20240523-WA0073.jpg (archivo adjunto)
+24/5/24 17:42 - Luciano Pereyra: ‎IMG-20240524-WA0037.jpg (archivo adjunto)
+24/5/24 17:43 - Luciano Pereyra: ‎IMG-20240524-WA0039.jpg (archivo adjunto)
+24/5/24 17:43 - Luciano Pereyra: ‎IMG-20240524-WA0038.jpg (archivo adjunto)
+24/5/24 18:15 - Luciano Pereyra: ‎IMG-20240524-WA0040.jpg (archivo adjunto)
+26/5/24 16:13 - Luciano Pereyra: ‎IMG-20240526-WA0007.jpg (archivo adjunto)
+30/5/24 10:12 - Luciano Pereyra: ‎IMG-20240530-WA0002.jpg (archivo adjunto)
+2/6/24 16:02 - Luciano Pereyra: ‎IMG-20240602-WA0011.jpg (archivo adjunto)
+7/6/24 18:31 - Luciano Pereyra: 0146581
+10/6/24 13:24 - Luciano Pereyra: ‎IMG-20240610-WA0030.jpg (archivo adjunto)
+10/6/24 15:50 - Luciano Pereyra: ‎IMG-20240610-WA0066.jpg (archivo adjunto)
+12/6/24 10:32 - Luciano Pereyra: <Multimedia omitido>
+3/7/24 10:19 - Luciano Pereyra: +541123997255
+3/7/24 10:38 - Luciano Pereyra: +34658483656
+3/7/24 10:45 - Luciano Pereyra: +34658483656
+3/7/24 15:38 - Luciano Pereyra: Adriana lopez
+9/7/24 23:05 - Luciano Pereyra: ‎IMG-20240709-WA0035.jpg (archivo adjunto)
+sanaaa
+12/7/24 18:36 - Luciano Pereyra: A10 202Â
+14/7/24 16:26 - Luciano Pereyra: demo )*hwf5MQNE}@Do
+15/7/24 14:08 - Luciano Pereyra: ‎IMG-20240715-WA0030.jpg (archivo adjunto)
+16/7/24 15:55 - Luciano Pereyra: https://www.facebook.com/groups/2576614279147402/
+16/7/24 16:25 - Luciano Pereyra: ‎IMG-20240716-WA0031.jpg (archivo adjunto)
+20/7/24 20:56 - Luciano Pereyra: <Multimedia omitido>
+20/7/24 21:35 - Luciano Pereyra: <Multimedia omitido>
+ilovepdf_merged (1).pdf
+22/7/24 22:49 - Luciano Pereyra: ‎CTT-TERCIARIO-LUCIANOPEREYRA.pdf (archivo adjunto)
+CTT-TERCIARIO-LUCIANOPEREYRA.pdf
+22/7/24 22:49 - Luciano Pereyra: <Multimedia omitido>
+PartidaNaciminto-LUCIANOPEREYRA.pdf
+22/7/24 22:49 - Luciano Pereyra: ‎DNI-LUCIANOPEREYRA.pdf (archivo adjunto)
+DNI-LUCIANOPEREYRA.pdf
+22/7/24 22:49 - Luciano Pereyra: ‎AnaliticoSecundario-LUCIANOPEREYRA.pdf (archivo adjunto)
+AnaliticoSecundario-LUCIANOPEREYRA.pdf
+22/7/24 22:49 - Luciano Pereyra: ‎ActaNacimiento-LUCIANOPEREYRA.pdf (archivo adjunto)
+ActaNacimiento-LUCIANOPEREYRA.pdf
+6/8/24 09:50 - Luciano Pereyra: 1134299812
+6/8/24 12:42 - Luciano Pereyra: 1162466609
+13/8/24 18:02 - Luciano Pereyra: ‎DOC-20240813-WA0008. (archivo adjunto)
+19/8/24 17:46 - Luciano Pereyra: https://www.scrumpoker-online.org/en/room/05803607/scrum-poker
+20/8/24 18:13 - Luciano Pereyra: ‎IMG-20240820-WA0022.jpg (archivo adjunto)
+29/8/24 23:07 - Luciano Pereyra: 1303012731001
+29/8/24 23:07 - Luciano Pereyra: Titular: Luciano Luis Alberto Pereyra
+CUIT/CUIL: 20409463216
+Alias: lpereyra.bru.1235
+CBU: 1430001713030127310016
+NRO. CUENTA: 1303012731001
+5/9/24 21:11 - Luciano Pereyra: import pandas as pd
+# Cargar el archivo CSV en un DataFrame
+digits_df = pd.read_csv('/content/sample_data/digits.csv')
+# Separar los features (X) y los labels (y)
+X = digits_df.iloc[:, 1:]  # Todos los features a partir de la segunda columna
+y = digits_df.iloc[:, 0]   # Los labels en la primera columna
+# Mostrar las primeras filas de X e y
+print(X.head())
+print(y.head())
+5/9/24 21:12 - Luciano Pereyra: # Contar la cantidad de ejemplos por cada label
+label_counts = y.value_counts()
+# Mostrar la cantidad de ejemplos por cada label
+print(label_counts)
+5/9/24 21:15 - Luciano Pereyra: import matplotlib.pyplot as plt
+g1= plt.imshow(X[10][:,:,0])
+print("LABEL:", y[10])
+5/9/24 21:43 - Luciano Pereyra: jueves 26 parcial machine learning
+10/9/24 14:34 - Luciano Pereyra: ‎DOC-20240910-WA0026. (archivo adjunto)
+1/10/24 15:17 - Luciano Pereyra: ‎DOC-20241001-WA0008. (archivo adjunto)
+3/10/24 20:34 - Luciano Pereyra: from sklearn.datasets import load_breast_cancer 
+import pandas as pd 
+#from sklearn.model_selection import train_test_split
+data = load_breast_cancer()
+
+print("Features: ", data.feature_names)
+print("Labels: ", data.target_names)
+
+df_data = pd.DataFrame(data.data, columns=data.feature_names)
+df_labels = pd.Series(data.target)
+3/10/24 20:38 - Luciano Pereyra: from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=30, random_state=42)
+3/10/24 20:41 - Luciano Pereyra: X_train, X_test, y_train, y_test = train_test_split(cancer.data, cancer.target, test_size=0.3,random_state=109) # 70% training and 30% test
+3/10/24 20:49 - Luciano Pereyra: #Import svm model
+from sklearn import svm
+
+clf = svm.SVC(kernel='sigmoid') # Linear Kernel
+clf.fit(X_train, y_train)
+3/10/24 20:57 - Luciano Pereyra: from sklearn.metrics import confusion_matrix
+import numpy as np
+import pandas as pd
+
+y_train_predict = svc_model.predict(X_train)
+
+cm_train = np.array(confusion_matrix(y_train, y_train_predict, labels=[0,1]))
+
+confusion_matrix_train = pd.DataFrame(cm_train, index=['Maligno (Real)', 'Benigno (Real)'], columns=['Maligno (Estimado)', 'Benigno (Estimado)'])
+3/10/24 20:58 - Luciano Pereyra: svc_model
+3/10/24 20:59 - Luciano Pereyra: #Import svm model
+from sklearn import svm
+
+svc_model = svm.SVC(kernel='poly') # Linear Kernel
+svc_model.fit(X_train, y_train)
+21/10/24 12:04 - Luciano Pereyra: Nns 026
+21/10/24 12:04 - Luciano Pereyra: Citroen plateado
+1/11/24 12:38 - Luciano Pereyra: 093
+9/11/24 16:37 - Luciano Pereyra: https://jobs.soho.lat/jobs/data-engineer-ssr-freelance-9e2380cd-e428-4aeb-8806-117a3be1201c
+10/11/24 23:18 - Luciano Pereyra: ‎DOC-20241110-WA0004. (archivo adjunto)
+10/11/24 23:40 - Luciano Pereyra: ‎DOC-20241110-WA0005. (archivo adjunto)
+18/11/24 15:39 - Luciano Pereyra: 0111556647644
+22/11/24 13:11 - Luciano Pereyra: ‎IMG-20241122-WA0002.jpg (archivo adjunto)
+25/11/24 19:13 - Luciano Pereyra: ‎166779f8-548e-42d9-8e47-062e798c3fd5.pdf (archivo adjunto)
+166779f8-548e-42d9-8e47-062e798c3fd5.pdf
