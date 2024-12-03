@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat JSON Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .entry {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .entry h3 {
+            margin: 0 0 10px;
+            font-size: 16px;
+            color: #333;
+        }
+        .entry ul {
+            padding-left: 20px;
+        }
+        .entry li {
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Visor de Chat</h1>
+    <div id="chatContainer">
+        <!-- Aquí se cargarán las entradas del JSON -->
+    </div>
+
+    <script>
+        // Función para cargar y mostrar el JSON del chat
+        async function cargarChatJson() {
+            try {
+                // Hacer la petición a la ruta que devuelve el JSON
+                const response = await fetch('/test/getChatJson');
+                if (!response.ok) {
+                    throw new Error(`Error al obtener el JSON: ${response.statusText}`);
+                }
+                
+                const data = await response.json(); // Convertir la respuesta a JSON
+
+                const container = document.getElementById('chatContainer');
+                container.innerHTML = ''; // Limpiar el contenedor antes de cargar
+
+                // Iterar sobre las claves del JSON y mostrar el contenido
+                Object.keys(data).forEach(key => {
+                    const entryElement = document.createElement('div');
+                    entryElement.classList.add('entry');
+                    entryElement.innerHTML = `
+                        <h3>${key}</h3>
+                        <ul>
+                            ${data[key].map(item => `<li>${item}</li>`).join('')}
+                        </ul>
+                    `;
+                    container.appendChild(entryElement);
+                });
+            } catch (error) {
+                console.error('Error al cargar el JSON:', error);
+                const container = document.getElementById('chatContainer');
+                container.innerHTML = '<p>Error al cargar los datos. Por favor, intente nuevamente.</p>';
+            }
+        }
+
+        // Llamar a la función al cargar la página
+        window.onload = cargarChatJson;
+    </script>
+</body>
+</html>

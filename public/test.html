@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notas por Semanas del Mes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f9;
+        }
+    
+        h1 {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+        }
+    
+        #navigation {
+            text-align: center;
+            margin: 20px 0;
+        }
+    
+        #chatContainer {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* 4 columnas para semanas */
+            gap: 20px; /* Espacio entre columnas */
+            padding: 20px;
+        }
+    
+        .week-group {
+            background-color: #e0e0e0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            overflow: hidden; /* Evita que el contenido desborde */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+        }
+    
+        .week-group h2 {
+            text-align: center;
+            font-size: 20px;
+            color: #444;
+            margin: 0;
+            background-color: #d4d4d4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    
+        /* Tarjetas dentro del grupo */
+        .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+    
+        .card .time {
+            font-size: 14px;
+            font-weight: bold;
+            color: #888;
+            margin-bottom: 5px;
+        }
+    
+        .card .name {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+    
+        .card .content {
+            font-size: 14px;
+            color: #555;
+            word-wrap: break-word; /* Evitar desbordamiento de texto */
+        }
+    
+        /* Imágenes */
+        .image-container {
+            margin-top: 10px;
+            text-align: center;
+        }
+    
+        .image-container img {
+            max-width: 100%;
+            height: auto; /* Mantener proporciones */
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    
+        /* PDFs */
+        .pdf-preview {
+            margin-top: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    
+        .pdf-preview embed {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: 200px;
+            border-bottom: 1px solid #ddd;
+        }
+    
+        .pdf-link {
+            margin: 10px 0;
+            color: #007bff;
+            font-size: 14px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    
+        .pdf-link:hover {
+            text-decoration: underline;
+        }
+    
+        /* Documentos DOC/DOCX */
+        .doc-container {
+            margin-top: 10px;
+            text-align: center;
+            background-color: #f4f4f9;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    
+        .doc-link {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    
+        .doc-link:hover {
+            text-decoration: underline;
+        }
+           /* Estilo del modal */
+           .modal {
+        display: none; /* Ocultar por defecto */
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto; /* Scroll si es necesario */
+        background-color: rgba(0, 0, 0, 0.8); /* Fondo oscuro semitransparente */
+    }
+
+    .modal-content {
+        display: block;
+        margin: auto;
+        max-width: 80%; /* Ajustar al 80% del ancho de la pantalla */
+        max-height: 80%; /* Ajustar al 80% de la altura de la pantalla */
+        border-radius: 8px;
+    }
+
+    .close {
+        position: absolute;
+        top: 20px;
+        right: 35px;
+        color: #fff;
+        font-size: 30px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    /* Ajustar el caption */
+    #caption {
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        font-size: 18px;
+    }
+    </style>
+    
+    
+</head>
+<body>
+    <h1>Notas por Semanas del Mes</h1>
+    <div id="navigation">
+        <label for="monthPicker">Seleccionar Mes: </label>
+        <input type="month" id="monthPicker" value="2024-07"> <!-- DateTimePicker -->
+    </div>
+    <div id="chatContainer">
+        <!-- Aquí se mostrarán las notas agrupadas por semanas -->
+    </div>
+    <div id="imageModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div id="caption"></div>
+    </div>
+    <script>
+        // Función para cargar las notas de un mes
+        async function cargarChatJson(month) {
+            try {
+                const response = await fetch('/test/getChatGroupedByMonth');
+                if (!response.ok) {
+                    throw new Error(`Error al obtener el JSON: ${response.statusText}`);
+                }
+    
+                const data = await response.json();
+                const container = document.getElementById('chatContainer');
+                const [year, monthNum] = month.split('-');
+                const formattedMonth = `${parseInt(monthNum)}/${year}`; // Convertir a formato "mes/año"
+                const monthData = data[formattedMonth] || { 1: [], 2: [], 3: [], 4: [] }; // Datos del mes o vacíos
+    
+                container.innerHTML = ''; // Limpiar contenido previo
+    
+                // Mostrar las 4 semanas
+                Object.keys(monthData).forEach(week => {
+                    const weekGroup = document.createElement('div');
+                    weekGroup.classList.add('week-group');
+                    weekGroup.innerHTML = `<h2>Semana ${week}</h2>`;
+    
+                    const weekGroupContent = document.createElement('div');
+                    weekGroupContent.classList.add('week-group-content');
+    
+                    monthData[week].forEach(entry => {
+                        const card = document.createElement('div');
+                        card.classList.add('card');
+    
+                        // Buscar si el contenido tiene una imagen, PDF o documento DOC/DOCX
+                        const imageRegex = /\b.*\.(?:png|jpg|jpeg|gif|svg)\b/i;
+                        const pdfRegex = /\b.*\.pdf\b/i;
+                        const docRegex = /\b.*\.(?:doc|docx)\b/i;
+    
+                        const imageMatch = entry.content.match(imageRegex);
+                        const pdfMatch = entry.content.match(pdfRegex);
+                        const docMatch = entry.content.match(docRegex);
+    
+                        let mediaContent = '';
+                        if (imageMatch) {
+                            mediaContent = `
+                                <div class="image-container">
+                                    <img src="/chat/${imageMatch[0]}" alt="Imagen asociada" />
+                                </div>
+                            `;
+                        } else if (pdfMatch) {
+                            mediaContent = `
+                                <div class="pdf-preview">
+                                    <a href="/chat/${pdfMatch[0]}" target="_blank">
+                                        <embed src="/chat/${pdfMatch[0]}" type="application/pdf">
+                                        </embed>
+                                        <p class="pdf-link">Ver PDF Completo</p>
+                                    </a>
+                                </div>
+                            `;
+                        } else if (docMatch) {
+                            mediaContent = `
+                                <div class="doc-container">
+                                    <a href="/chat/${docMatch[0]}" target="_blank" class="doc-link">
+                                        <p>📄 ${docMatch[0]}</p>
+                                    </a>
+                                </div>
+                            `;
+                        }
+    
+                        card.innerHTML = `
+                            <p class="time">${entry.date} - ${entry.time}</p>
+                            <p class="name">${entry.name}</p>
+                            <p class="content">${entry.content}</p>
+                            ${mediaContent}
+                        `;
+                        weekGroupContent.appendChild(card);
+                    });
+    
+                    weekGroup.appendChild(weekGroupContent);
+                    container.appendChild(weekGroup);
+                });
+            } catch (error) {
+                console.error('Error al cargar el JSON:', error);
+                const container = document.getElementById('chatContainer');
+                container.innerHTML = '<p>Error al cargar los datos. Por favor, intente nuevamente.</p>';
+            }
+        }
+    
+        // Manejar cambios en el DateTimePicker
+        document.getElementById('monthPicker').addEventListener('change', (event) => {
+            const selectedMonth = event.target.value; // Obtener el mes seleccionado
+            cargarChatJson(selectedMonth);
+        });
+    
+        // Cargar notas iniciales
+        window.onload = () => {
+            const initialMonth = document.getElementById('monthPicker').value;
+            cargarChatJson(initialMonth);
+        };
+
+           // Obtener elementos del modal
+        // Función para abrir el modal
+function openImageModal(imageSrc, caption = '') {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    const captionText = document.getElementById('caption');
+
+    // Mostrar el modal y cargar la imagen
+    modal.style.display = 'block';
+    modalImage.src = imageSrc;
+    captionText.innerText = caption;
+}
+
+// Función para cerrar el modal
+function closeModal() {
+    const modal = document.getElementById('imageModal');
+    modal.style.display = 'none';
+}
+
+// Inicializar eventos en las imágenes dentro de .image-container
+function initializeImageModal() {
+    const images = document.querySelectorAll('.image-container img');
+    
+    if (images.length === 0) {
+        console.warn('No se encontraron imágenes en .image-container');
+        return;
+    }
+
+    images.forEach((image) => {
+        // Evitar agregar múltiples eventos al mismo elemento
+        if (!image.dataset.modalInitialized) {
+            image.addEventListener('click', () => {
+                const imageSrc = image.src;
+                const caption = image.alt || 'Vista previa de la imagen';
+                openImageModal(imageSrc, caption);
+            });
+            image.dataset.modalInitialized = true; // Marcar como inicializado
+        }
+    });
+}
+
+// Detectar cambios dinámicos en el DOM
+const observer = new MutationObserver(() => {
+    initializeImageModal(); // Reasignar eventos a nuevas imágenes
+});
+
+// Configurar el observador en el contenedor principal
+const chatContainer = document.getElementById('chatContainer');
+if (chatContainer) {
+    observer.observe(chatContainer, {
+        childList: true, // Observar cambios en los hijos directos
+        subtree: true,   // Observar cambios en todos los niveles
+    });
+}
+
+// Asignar el evento para cerrar el modal al botón de cierre
+document.addEventListener('DOMContentLoaded', () => {
+    const closeButton = document.querySelector('.close');
+    const modal = document.getElementById('imageModal');
+
+    if (closeButton) {
+        closeButton.onclick = closeModal;
+    }
+
+    if (modal) {
+        modal.onclick = (event) => {
+            if (event.target === modal) {
+                closeModal();
+            }
+        };
+    }
+
+    // Inicializar eventos para las imágenes existentes
+    initializeImageModal();
+});
+
+    </script>
+    
+    
+    
+    
+    
+    
+</body>
+</html>

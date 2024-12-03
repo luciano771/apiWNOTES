@@ -1,0 +1,31 @@
+{
+  "name": "apiwnotes",
+  "version": "1.0.0",
+  "description": "side project",
+  "main": "index.js",
+  "repository": "https://github.com/luciano771/apiWNOTES.git",
+  "author": "luciano771 <79546157+luciano771@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "yarn": "^1.22.22"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "gitignore": "^0.7.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.20.1"
+  }
+}
